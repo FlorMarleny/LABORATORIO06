@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\el3\el3\bin\Debug\el3.exe.config
+C:\Users\Alumno\source\repos\el3\el3\bin\Debug\el3.exe
+C:\Users\Alumno\source\repos\el3\el3\bin\Debug\el3.pdb
+C:\Users\Alumno\source\repos\el3\el3\obj\Debug\el3.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\el3\el3\obj\Debug\el3.Form1.resources
+C:\Users\Alumno\source\repos\el3\el3\obj\Debug\el3.Properties.Resources.resources
+C:\Users\Alumno\source\repos\el3\el3\obj\Debug\el3.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\el3\el3\obj\Debug\el3.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\el3\el3\obj\Debug\el3.exe
+C:\Users\Alumno\source\repos\el3\el3\obj\Debug\el3.pdb
